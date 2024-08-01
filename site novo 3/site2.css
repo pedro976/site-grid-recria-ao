@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+}
+#banner{
+width: 100%;
+}
+main{
+    padding-left: 430px;
+}
+.imagencomida2{
+    display: inline;
+    text-align: center;
+    width:6px;
+}
+#gridp22{
+    width: 100%;
+    height: auto;
+    padding-top: 350px;
+}
+#gridp2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+} 
+.conta1{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); 
+        gap: 20px; 
+    }
+.textos{
+position: relative;
+padding-top: 50PX;
+left: -400px;
+}
+.textos P{
+    padding-top: 40PX;
+
+   font-family: sans-serif; }
+
+        
+.footer-itens{padding: 10px; 
+  margin-right: 20px; }
+  
+  .butao{font-size: 14px;
+    color: #ffffff;
+    font-weight: 800;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 13px 30px 12px;
+    background: #7fad39;
+    border: none;}
+      .menulogo ul {
+        border: 1px solid #ebebeb;
+
+   
+       
+}
+.footer2 {
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  background-color: #f0f0f0;
+  padding: 70px 0px 0px; 
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right:20px;
+  margin-left: -400px;
+padding-top: 70px;
+padding-bottom: 0;
+
+background: #F3F6FA;
+padding-top: 100px;
+padding-bottom: 0;
+}
+.centro{display: inline; font-family: sans-serif;}
+.email2{
+    grid-template-columns: auto 1fr; /* 2-column grid */
+    text-align: center; }
+    .email{font-family: sans-serif;}
+    svg{height: 10px;
+        width: 30px; display: inline;
+}
+
+.branco{
+    color:white;
+    font-family: sans-serif;}
+  .azul{
+    color:blue;
+    font-family: sans-serif;}
+  .vermelho{
+    color:red;
+    font-family: sans-serif;}
+  
+  .amarelo{
+    color:yellow;
+    font-family: sans-serif; }
+  .preto{
+    color:black;
+    font-family: sans-serif;}
+  .verde{
+    color:green;
+    font-family: sans-serif; }
+  .arcoiris{
+    position: relative;
+    padding-top: 50PX;
+    left: -400px;
+    padding-top: 40PX;
+  font-family: sans-serif;}
+    .icone{height: 23px;
+      width: 45px;}
+.email{margin-left: 18%;
+display: flex;}
+.digite{text-align: center;
+}
+.butao2{font-size: 14px;
+  color: #ffffff;
+  font-weight: 800;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 13px 30px 12px;
+  background: #7fad39;
+  border: none;}
+  
+  li{
+    list-style: none;
+  }
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .butao{font-size: 14px;
+    color: #ffffff;
+    font-weight: 800;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 13px 30px 12px;
+    background: #7fad39;
+    border: none;}
+      .menulogo ul {
+        border: 1px solid #ebebeb;
+
+      }
+      .all{
+        background-color: #7fad39;
+        height: 40px ;
+        width: 379px;
+        color:white;
+        font-family: sans-serif;
+        text-align: center;
+        }
+        .email
+{
+text-align: center;
+height: 40px;
+background-color: rgb(255, 255, 255);/*TROCAR A COR DO FUNDO <------------------------------------------------------------------------------------ */
+display: flex;
+
+}
+#emai{
+  margin-top: 5px;
+  padding-left: 400px;
+}
+.email2{
+  margin-top: 5px;
+  padding-left: 18%;
+}
+
+#barra{
+  margin-top: 5px;
+  padding-left: 50px;
+}
+
+.free{
+  margin-top: 5px;
+  padding-left: 50px;
+  padding-right: 500px;
+}
+
+#bandeira{
+  margin-top: 5px;
+  width: 50px;
+  height: 30px;
+  padding-left: 10px;
+}
+
+#textin{
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+.svg1{
+  margin-top: 10px;
+}
+.dropdown-content {
+  margin-left: 10px;
+  text-decoration: none;
+  font-size: 15px;
+  display: none;
+  position: absolute;
+  background-color: black;
+  color: white;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+      

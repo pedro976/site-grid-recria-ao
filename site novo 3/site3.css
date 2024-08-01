@@ -1,0 +1,304 @@
+*{
+    margin: 0;
+}
+#banner{
+width: 100%;
+}
+
+    
+
+.imagencomida2{
+    display: inline;
+    text-align: center;
+    width:6px;
+}
+#gridp22{
+    width: 100%;
+    height: auto;
+    padding-top: 350px;
+}
+#gridp2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+} 
+.conta1{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); 
+        gap: 20px; 
+    }
+.textos{
+position: relative;
+padding-top: 50PX;
+left: -400px;
+}
+.textos P{
+    padding-top: 40PX;
+
+   font-family: sans-serif; }
+
+        
+.footer-itens{padding: 10px; 
+  margin-right: 20px; }
+  
+  .butao{font-size: 14px;
+    color: #ffffff;
+    font-weight: 800;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 13px 30px 12px;
+    background: #7fad39;
+    border: none;}
+      .menulogo ul {
+        border: 1px solid #ebebeb;
+
+   
+       
+}
+.footer2 {
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  background-color: #f0f0f0;
+  padding: 70px 0px 0px; 
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right:20px;
+  margin-left: -400px;
+padding-top: 70px;
+padding-bottom: 0;
+
+background: #F3F6FA;
+padding-top: 100px;
+padding-bottom: 0;
+}
+.centro{display: inline; font-family: sans-serif;}
+.email2{
+    grid-template-columns: auto 1fr; /* 2-column grid */
+    text-align: center; }
+    .email{font-family: sans-serif;}
+    svg{height: 10px;
+        width: 30px; display: inline;
+}
+
+
+    .icone{height: 23px;
+      width: 45px;}
+
+
+/*DAQUI */
+
+.email
+{
+text-align: center;
+height: 40px;
+background-color: rgb(248, 248, 248);/*TROCAR A COR DO FUNDO <------------------------------------------------------------------------------------ */
+display: flex;
+
+}
+#emai{
+  margin-top: 5px;
+  padding-left: 400px;
+}
+.email2{
+  margin-top: 5px;
+  padding-left: 18%;
+}
+
+#barra{
+  margin-top: 5px;
+  padding-left: 50px;
+}
+
+.free{
+  margin-top: 5px;
+  padding-left: 50px;
+  padding-right: 500px;
+}
+
+#bandeira{
+  margin-top: 5px;
+  width: 50px;
+  height: 30px;
+  padding-left: 10px;
+}
+
+#textin{
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+.svg1{
+  margin-top: 10px;
+}
+.dropdown-content {
+  margin-left: 10px;
+  text-decoration: none;
+  font-size: 15px;
+  display: none;
+  position: absolute;
+  background-color: black;
+  color: white;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/*ATE AQUI */
+
+
+
+
+
+
+
+
+
+
+
+.digite{text-align: center;
+}
+.butao2{font-size: 14px;
+  color: #ffffff;
+  font-weight: 800;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 13px 30px 12px;
+  background: #7fad39;
+  border: none;}
+  
+  li{
+    list-style: none;
+  }
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .butao{font-size: 14px;
+    color: #ffffff;
+    font-weight: 800;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 13px 30px 12px;
+    background: #7fad39;
+    border: none;}
+      .menulogo ul {
+        border: 1px solid #ebebeb;
+
+      }
+      .all{
+        background-color: #7fad39;
+        height: 40px ;
+        width: 379px;
+        color:white;
+        font-family: sans-serif;
+        text-align: center;
+        }
+        
+      .grid-item{display: flex;
+        width: 70%;
+    margin: auto;
+    margin-left: 45%;
+    }
+
+    .grid-item div{
+        width: 35%;
+    }
+    .baixo {display: flex;
+        width: 30;
+    
+    margin-left: 40%;
+    margin-right:28% ;
+    }
+    .baixo div{
+        width: 35%;
+    }
+    .baixo{display: flex;
+      width: 70%;
+  margin: auto;
+  margin-left: 45%;}
+  .baixo2{display: flex;
+    width: 50%;
+margin: auto;
+margin-left: 45%;}
+        
+.lateral{
+  position: relative;
+  top: -900px;
+  left: 200px;
+}
+.tudo{
+  padding-top: 200px;
+}
+#pesquisa{
+  border-radius: 50px;
+  width: 350px;
+  height: 50px;
+}
+.text3{
+  position: relative;
+  padding-top: 50PX;
+  left: -0px;
+  border-radius: 50px;
+  width: 350px;
+  height: 50px;
+  top: -900px;
+  left: 200px;
+}
+.text2{
+  position: relative;
+  padding-top: 50PX;
+  left: -0px;
+  border-radius: 50px;
+  width: 350px;
+  height: 50px;
+  top: -750px;
+  left: 200px;
+
+}
+.text2 img{
+  display: flex
+}
+.text2 p{
+  position: relative;
+  margin-left: 23%;
+  margin-right: 30%;
+
+  
+}
+.texto5{margin-left:12% ;
+margin-top: 23%;}
+.text{position: relative;
+top: -750px;
+left: 200px;}
+.footer-itens{padding: 10px; 
+  margin-right: 20px; }
+  .footer2 {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    background-color: #f0f0f0;
+    padding: 70px 0px 0px; 
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right:20px;
+    margin-left: -400px;
+  padding-top: 70px;
+  padding-bottom: 0;
+  
+  background: #F3F6FA;
+  padding-top: 100px;
+  padding-bottom: 0;
+  
+ position: relative;
+ top: 600px;}
+.tofu{padding: 10px; 
+  margin-right: 3px; 
+;}
+
